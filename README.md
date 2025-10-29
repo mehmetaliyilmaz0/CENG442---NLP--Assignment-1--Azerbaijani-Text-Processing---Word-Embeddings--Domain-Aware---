@@ -3,9 +3,9 @@
 This project implements a robust, domain-aware text preprocessing pipeline for Azerbaijani. It processes, cleans, and standardizes five sentiment-annotated datasets. Finally, it trains and evaluates Word2Vec and FastText embedding models on the cleaned corpus.
 
 **Group Members:**
-* `<Mehmet Ali Yılmaz>`
-* `<Cemilhan Sağlam>`
-* `<Muhammed Esat Çelebi>`
+* `Mehmet Ali Yılmaz`
+* `Cemilhan Sağlam`
+* `Muhammed Esat Çelebi`
 
 
 ---
